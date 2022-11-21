@@ -1,0 +1,13 @@
+Welcome to the technical demonstration on Thursday 27th of October.
+
+On the following link you can find to which world you are assigned and then download the corresponding credential:
+https://kth-my.sharepoint.com/:f:/g/personal/pontusj_ug_kth_se/ElMWQ_RrTpdOr2w-1xICbjIB_KG4qtfdI5MxOs3yMoEvhQ?e=Fvu1oV
+
+The rules for the technical demonstration are:
+- You should submit the flags you capture on the "Tech Demo Capturing Flags" assignment on Canvas. You can make one submission for each flag on the same assignment (do not worry about overwriting submissions) or you can submit them all together, whatever you prefer!
+- Have an identification document ready
+- You are allowed to use any form of written notes (either handwritten or digital)
+- You can use Google and the Internet
+- You are not allowed to use or watch the flag hint tutorial videos and the written solutions on the info flag groups
+- If you finish capturing the flags earlier, you are free to leave
+- After the technical demonstration, please delete the VPN credentials you have used
